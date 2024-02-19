@@ -1,5 +1,5 @@
 <h1>Hello! I'm Tomas Emiliano Zarate <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>QA Analyst Automation 🎨</h2>
+<h2>QA Analyst Automation 🐞🔍</h2>
 
 ### About Me
 - I am 24 years old and I am from Buenos Aires, Argentina.
