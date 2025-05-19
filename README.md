@@ -1,5 +1,5 @@
 <h1>Hola! Soy Tomi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>QA Automation 🐞🔍</h2>
+<h2>QA Engineer 🐞🔍</h2>
 
 ### About me: 
 Profesional con más de cuatro años de experiencia en pruebas manuales y automatizadas, orientado a resultados y detallista, con sólida experiencia en lenguajes como Java, Python, JavaScript y TypeScript, y una pasión por garantizar la calidad del software. Certificado en ISTQB Foundation Level y Scrum. Experto en el diseño, implementación y ejecución de scripts de prueba automatizados tanto para frontend como backend, con el objetivo de verificar la funcionalidad y el rendimiento de aplicaciones en entornos web. Cuento con experiencia en sectores como el mercado financiero, fintech, prepagas, así como en pymes y multinacionales, lo que me permite adaptarme a entornos exigentes y altamente regulados. Comprometido con la entrega de software de alta calidad, alineado a los objetivos estratégicos del negocio y a las metas de calidad definidas en los planes trimestrales (Q1, Q2, Q3, Q4.), aplicando las mejores prácticas de la industria en pruebas y automatización.
