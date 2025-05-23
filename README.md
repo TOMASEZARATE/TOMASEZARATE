@@ -1,17 +1,40 @@
-<h1>Hola! Soy Tomi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>QA Engineer 🐞🔍</h2>
+![Tomas Zarate](https://github.com/TOMASEZARATE/TOMASEZARATE/blob/main/img/banner.png?raw=true)
 
-### About me: 
-Profesional con más de cuatro años de experiencia en pruebas manuales y automatizadas, orientado a resultados y detallista, con sólida experiencia en lenguajes como Java, Python, JavaScript y TypeScript, y una pasión por garantizar la calidad del software. Certificado en ISTQB Foundation Level y Scrum. Experto en el diseño, implementación y ejecución de scripts de prueba automatizados tanto para frontend como backend, con el objetivo de verificar la funcionalidad y el rendimiento de aplicaciones en entornos web. Cuento con experiencia en sectores como el mercado financiero, fintech, prepagas, así como en pymes y multinacionales, lo que me permite adaptarme a entornos exigentes y altamente regulados. Comprometido con la entrega de software de alta calidad, alineado a los objetivos estratégicos del negocio y a las metas de calidad definidas en los planes trimestrales (Q1, Q2, Q3, Q4.), aplicando las mejores prácticas de la industria en pruebas y automatización.
+## Hola, soy Tomi! 🚀
+
+[![Linkedin Badge](https://img.shields.io/badge/-Tomas%20Zarate-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/tomasemilianozarate99/)](https://www.linkedin.com/in/tomasemilianozarate99/)
+
+[![Gmail Badge](https://img.shields.io/badge/-zaratetomas99@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:zaratetomas99@gmail.com)](mailto:zaratetomas99@gmail.com)
+
+* QA Engineer 🐞🔍
 
 🛠️ Languages and Dev Tools:
 
-Java, JavaScript, Python, TypeScript, HTML, SQL, AWS, Git
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 🐞 Testing Tools:
 
-Selenium, Playwright, Cypress, Pytest, Rest Assured, Request, Postman, Jenkins, Jira, Cucumber
-  
-### Contact Me
-<a href="https://www.linkedin.com/in/tomasemilianozarate99/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tomas%20Emiliano%20Zarate-blue?style=flat-square&logo=linkedin"></a>
-<a href="zaratetomas99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-zaratetomas99@gmail.com-blue?style=flat-square&logo=gmail"></a>
+Selenium, Playwright, Cypress, Pytest, Rest Assured, Requests, Postman, Jenkins, Jira, Cucumber
+
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TOMASEZARATE)](https://git.io/streak-stats)
+
+### 🛠️ Tecnologías
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
