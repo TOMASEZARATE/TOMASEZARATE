@@ -2,7 +2,7 @@
 
 ## Hola, soy Tomi! 🚀
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tomas%20Zarate-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/tomasemilianozarate99/)](https://www.linkedin.com/in/tomasemilianozarate99/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasemilianozarate99/)
 
 [![Gmail Badge](https://img.shields.io/badge/-zaratetomas99@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:zaratetomas99@gmail.com)](mailto:zaratetomas99@gmail.com)
 
