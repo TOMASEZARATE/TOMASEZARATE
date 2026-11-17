@@ -107,7 +107,6 @@ Selenium · Cypress · Postman · Jenkins · Git · GitHub Actions · AWS
 
 <div align="center">
 
-El portfolio público está en preparación. Hoy la automatización vive en repositorios privados.
 
 ## Contacto
 
