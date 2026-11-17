@@ -22,11 +22,6 @@ Soy Tomas Emiliano Zarate, QA Engineer en Buenos Aires, Argentina. Me enfoco en 
 - **API:** Python y RestAssured.
 - **También:** TypeScript.
 
-<!-- TODO(Tomas): formación. No está en el texto visible porque no figura en este README ni en la bio de GitHub.
-Si querés sumarla, reemplazá este comentario por una línea. Ejemplo, solo si es correcto:
-Estudiante de la Tecnicatura Universitaria en Programación a Distancia (TUPAD) en la UTN.
--->
-
 ## Stack
 
 ### Lenguajes
