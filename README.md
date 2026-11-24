@@ -12,9 +12,9 @@
 
 **Senior Test Automation Engineer · Test Architect**
 
-QA Automation Engineer en Sistema de Transferencias y Pagos (STP), México, remoto. Basado en Buenos Aires, Argentina.
+QA Automation Engineer en Sistema de Transferencias y Pagos (STP).
 
-Combino técnica, arquitectura de calidad y conocimiento del negocio para construir soluciones de automatización escalables. Impulso agentes de inteligencia artificial que potencian el testing, ordenan el proceso y acortan el ciclo de desarrollo. Certificado en ISTQB y en Scrum.
+Combino experiencia técnica, arquitectura de calidad y conocimiento del negocio para construir soluciones de automatización escalables. Impulso agentes de inteligencia artificial que potencian el testing, ordenan el proceso y acortan el ciclo de desarrollo. Certificado en ISTQB y en Scrum.
 
 <img alt="6+ años en QA" src="https://img.shields.io/badge/6%2B_a%C3%B1os_en_QA-0B1F3A?style=for-the-badge">
 <img alt="ISTQB" src="https://img.shields.io/badge/ISTQB-0E4D92?style=for-the-badge">
@@ -75,7 +75,7 @@ Más de seis años en QA, de sanatorios y prepagas a fintech, mercado de capital
     <td valign="top">
       <h3>QA Automation Engineer</h3>
       <b>Sistema de Transferencias y Pagos (STP)</b><br>
-      Rol actual de automatización de calidad en transferencias y pagos.
+      Actualidad.
     </td>
   </tr>
   <tr>
